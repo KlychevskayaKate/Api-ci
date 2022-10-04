@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="app-mbank">
-    <output-path>$PROJECT_DIR$/out/artifacts/app_mbank</output-path>
-    <root id="archive" name="app-mbank.jar">
-      <element id="archive" name="archive.jar" />
-    </root>
-  </artifact>
-</component>
